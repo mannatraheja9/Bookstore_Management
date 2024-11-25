@@ -40,8 +40,6 @@ SELECT * FROM users;
 SELECT * FROM cart;
 SELECT * FROM orders;
 
-delete from users where id = 53;
-
                   
 
                    
